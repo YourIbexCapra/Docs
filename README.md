@@ -7,3 +7,9 @@
 ## Description
 
 A collection of template documents for penetration testing and software engineering.
+
+## Clone
+
+```shell
+git clone https://github.com/YourIbexCapra/Docs.git
+```
